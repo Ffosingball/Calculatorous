@@ -1,0 +1,9 @@
+D:\Мои проекты\Calculatorous\Calculatorous\obj\Debug\Calculatorous.Form1.resources
+D:\Мои проекты\Calculatorous\Calculatorous\obj\Debug\Calculatorous.Properties.Resources.resources
+D:\Мои проекты\Calculatorous\Calculatorous\obj\Debug\Calculatorous.csproj.GenerateResource.cache
+D:\Мои проекты\Calculatorous\Calculatorous\obj\Debug\Calculatorous.csproj.CoreCompileInputs.cache
+D:\Мои проекты\Calculatorous\Calculatorous\bin\Debug\Calculatorous.exe.config
+D:\Мои проекты\Calculatorous\Calculatorous\bin\Debug\Calculatorous.exe
+D:\Мои проекты\Calculatorous\Calculatorous\bin\Debug\Calculatorous.pdb
+D:\Мои проекты\Calculatorous\Calculatorous\obj\Debug\Calculatorous.exe
+D:\Мои проекты\Calculatorous\Calculatorous\obj\Debug\Calculatorous.pdb
